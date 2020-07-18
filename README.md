@@ -1,3 +1,3 @@
-#Background effect
-##link : https://manishkumart.github.io./
+
+link : https://manishkumart.github.io./
 
